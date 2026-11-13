@@ -1,7 +1,7 @@
-# Tails and Trails in Rubin eDP2: demo notebooks
+# Tails, Trails, and Transients in Rubin eDP2: demo notebooks
 
 Two notebooks that reproduce one example of each science case in the Letter
-*Tails and Trails: Comets and NEOs Survive Co-addition in Rubin Early Data Preview 2*
+*Tails, Trails, and Transients: Comets, NEOs, and Supernovae in Rubin Early Data Preview 2*
 (Chandler et al., [arXiv:2609.30361](https://arxiv.org/abs/2609.30361)) on the
 [Rubin Science Platform](https://data.lsst.cloud).
 
@@ -32,7 +32,7 @@ You need a Rubin Science Platform account with access to eDP2.
 
 1. Open a terminal in the Notebook Aspect at [data.lsst.cloud](https://data.lsst.cloud) and run:
    ```bash
-   git clone https://github.com/ColinOrionChandler/Rubin-eDP2-Tails-Trails-Demo.git
+   git clone https://github.com/ColinOrionChandler/Rubin-eDP2-Tails-Trails-Transients-Demo.git
    ```
 2. Open a notebook, choose the **LSST** kernel, and run all cells.
 

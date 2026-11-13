@@ -1,7 +1,8 @@
 # Tails and Trails in Rubin eDP2: demo notebooks
 
 Two notebooks that reproduce one example of each science case in the Letter
-*Tails and Trails: Comets and NEOs in Rubin eDP2* (Chandler et al.) on the
+*Tails and Trails: Comets and NEOs Survive Co-addition in Rubin Early Data Preview 2*
+(Chandler et al., [arXiv:2609.30361](https://arxiv.org/abs/2609.30361)) on the
 [Rubin Science Platform](https://data.lsst.cloud).
 
 | Target | Science case | Epoch (UTC date, band) |
@@ -40,7 +41,8 @@ results and stops with an error if they differ from the Letter.
 
 ## Credit
 
-Please acknowledge Rubin eDP2 data as described on [dp2.lsst.io](https://dp2.lsst.io), JPL
+If you use these notebooks, please cite the Letter,
+[arXiv:2609.30361](https://arxiv.org/abs/2609.30361). Please also acknowledge Rubin eDP2 data as described on [dp2.lsst.io](https://dp2.lsst.io), JPL
 Horizons as described on its [site](https://ssd.jpl.nasa.gov/horizons/), and follow Sorcha's
 citation requirements if you use the Ponder notebook.
 
